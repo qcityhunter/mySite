@@ -2,6 +2,8 @@ body{
   margin: 0;
   text-align: center;
   font-family: monospace;
+  font-family: 'DotGothic16', sans-serif;
+  background-color:#a7c5eb;
 }
 
 h1{
@@ -14,16 +16,7 @@ h1{
   position: relative;
   padding-top: 100px;
 }
-.middle-container{
-  background-color:red;
-  width: 200px;
-  height: 200px;
-}
-.bottom-container{
-  background-color:blue;
-  width: 200px;
-  height: 200px;
-}
+
 
 .pro{
   text-decoration: underline;
