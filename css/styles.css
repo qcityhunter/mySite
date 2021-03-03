@@ -6,9 +6,25 @@ body{
   background-color:#a7c5eb;
 }
 
+hr{
+  background-color:#03506f;
+  border-style: none;
+  border-top-style: dotted;
+}
+
 h1{
+  color: #66BFBF;
   margin-top: 0;
 }
+
+h2{
+  color: #66BFBF;
+}
+
+h3{
+  color: #11999E;
+}
+
 
 
 .top-container{
@@ -17,6 +33,12 @@ h1{
   padding-top: 100px;
 }
 
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
 
 .pro{
   text-decoration: underline;
@@ -31,4 +53,16 @@ h1{
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.code2-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
